@@ -3,17 +3,27 @@
 }
 body,html{
     font-family: 'Roboto', sans-serif;
+    margin: 0 auto;
 }
 header{
     background-color: #fff;
     padding: 10px 0;
 }
+.form{
+    padding-bottom: 100px;
+}
 .wrapper,
 .wrapper1,
 .wrapper2,
-.wrapper3{
+.wrapper3,
+.wrapper4{
     width: 940px;
     margin: 0 auto;
+}
+.wrapper2,
+.wrapper3,
+.wrapper4{
+    padding-bottom: 60px;
 }
 .logo,
 .links{
@@ -26,19 +36,17 @@ header{
 .section1,
 .section4{
     background-color: #fac960;
-    width: 1575px;
-    height: 410px;
+    
 }
 .section2,
 .section4{
     padding-top: 70px;
-    width: 1575px;
-    height: 410px;
+    
+    
 }
 .section3{
     padding: 35px;
-    width: 1575px;
-    height: 600px;
+ 
 }
 .section2{
     background-color: #f2f2f2;
